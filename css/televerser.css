@@ -1,0 +1,11 @@
+.upload-form
+{
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+    background: transparent;
+    border: 2px dashed #dadada;
+    border-radius: 5px;
+    color: #000;
+    cursor: pointer;
+}
